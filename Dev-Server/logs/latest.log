@@ -1,0 +1,87 @@
+[19:48:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:48:21] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[19:48:22] [Worker-Main-4/INFO]: Loaded 7 recipes
+[19:48:24] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[19:48:24] [Server thread/INFO]: Loading properties
+[19:48:24] [Server thread/INFO]: This server is running Paper version git-Paper-295 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: f905057)
+[19:48:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:48:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:48:24] [Server thread/INFO]: Default game type: SURVIVAL
+[19:48:24] [Server thread/INFO]: Generating keypair
+[19:48:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:48:25] [Server thread/INFO]: Using default channel type
+[19:48:25] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[19:48:25] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[19:48:25] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_17_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:48:30] [Server thread/WARN]: Legacy plugin ReloadServerGuardianService vV.0.1.-1.17.1.Alpha.Dev.Build.2021.10.1 does not specify an api-version.
+[19:48:30] [Server thread/INFO]: [RSGS] Loading ReloadServerGuardianService vV.0.1.-1.17.1.Alpha.Dev.Build.2021.10.1
+[19:48:30] [Server thread/INFO]: [AutoPluginLoader] Loading AutoPluginLoader v1.2.5
+[19:48:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:48:30] [Server thread/INFO]: [RSGS] Enabling ReloadServerGuardianService vV.0.1.-1.17.1.Alpha.Dev.Build.2021.10.1*
+[19:48:30] [Server thread/INFO]: [RSGS] 
+ _______  _______  _______  _______ 
+(  ____ )(  ____ \(  ____ \(  ____ \
+| (    )|| (    \/| (    \/| (    \/
+| (____)|| (_____ | |      | (_____ 
+|     __)(_____  )| | ____ (_____  )
+| (\ (         ) || | \_  )      ) |
+| ) \ \__/\____) || (___) |/\____) |
+|/   \__/\_______)(_______)\_______)
+                                    
+[19:48:30] [Server thread/INFO]: [RSGS] Reload Server Guardian Service is Ready!
+[19:48:30] [Server thread/INFO]: Preparing level "world"
+[19:48:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:48:31] [Server thread/INFO]: Time elapsed: 555 ms
+[19:48:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:48:31] [Server thread/INFO]: Time elapsed: 102 ms
+[19:48:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:48:31] [Server thread/INFO]: Time elapsed: 92 ms
+[19:48:31] [Server thread/INFO]: [AutoPluginLoader] Enabling AutoPluginLoader v1.2.5
+[19:48:31] [Server thread/INFO]: [AutoPluginLoader] Plugin has successfully loaded. (Took 55ms)
+[19:48:32] [Server thread/INFO]: Running delayed init tasks
+[19:48:32] [Server thread/INFO]: Done (7.617s)! For help, type "help"
+[19:48:32] [Server thread/INFO]: Timings Reset
+[19:48:34] [Server thread/WARN]: UUID of added entity already exists: EntityFox['Fox'/58, uuid='ebd8ca90-ac1f-41a3-9dd4-99ab62d882d4', l='ServerLevel[world]', x=-146.54, y=70.00, z=41.47, cpos=[-10, 2], tl=183287, v=false, rR=null]
+[19:48:34] [Server thread/WARN]: UUID of added entity already exists: EntityFox['Fox'/62, uuid='ebd8ca90-ac1f-41a3-9dd4-99ab62d882d4', l='ServerLevel[world]', x=-157.43, y=71.00, z=54.36, cpos=[-10, 3], tl=207288, v=false, rR=null]
+[19:48:34] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/100, uuid='38798521-e7bd-4552-bd4e-627795320742', l='ServerLevel[world]', x=-105.46, y=68.00, z=-12.46, cpos=[-7, -1], tl=177294, v=false, rR=null]
+[19:48:34] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/102, uuid='17dea56b-46f8-4db1-b187-3291c11a893b', l='ServerLevel[world]', x=-96.59, y=68.00, z=-0.50, cpos=[-7, -1], tl=177293, v=false, rR=null]
+[19:48:34] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/111, uuid='b85b1b8d-589c-486d-a8e9-d5b2ef707d32', l='ServerLevel[world]', x=-83.49, y=70.00, z=-0.91, cpos=[-6, -1], tl=159293, v=false, rR=null]
+[19:48:34] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/145, uuid='3f505587-5bb5-48eb-a885-ee3f1738049a', l='ServerLevel[world]', x=-37.95, y=78.00, z=111.11, cpos=[-3, 6], tl=20973, v=false, rR=null]
+[19:48:34] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/189, uuid='9460a3c9-7fac-4a25-a8c9-bb9ab23107f2', l='ServerLevel[world]', x=-65.86, y=72.00, z=50.86, cpos=[-5, 3], tl=87298, v=false, rR=null]
+[19:48:34] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/190, uuid='d3dd28b0-d3e8-4130-966d-db1910190234', l='ServerLevel[world]', x=-72.50, y=71.00, z=49.71, cpos=[-5, 3], tl=87297, v=false, rR=null]
+[19:48:34] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/192, uuid='9460a3c9-7fac-4a25-a8c9-bb9ab23107f2', l='ServerLevel[world]', x=-64.88, y=70.00, z=40.49, cpos=[-5, 2], tl=123297, v=false, rR=null]
+[19:48:34] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/206, uuid='d825cf03-e3c8-4951-88f5-69fdfcf3f42d', l='ServerLevel[world]', x=33.75, y=65.00, z=111.53, cpos=[2, 6], tl=87255, v=false, rR=null]
+[19:49:07] [User Authenticator #1/INFO]: UUID of player EarthlyEric6 is 83da61ef-a5fd-4718-aeeb-a9e0c99d58ff
+[19:49:07] [Server thread/INFO]: EarthlyEric6 join the game.
+[19:49:07] [Server thread/INFO]: EarthlyEric6[/192.168.0.1:6867] logged in with entity id 285 at ([world]-103.74283846479604, 71.0, -37.69999998807907)
+[19:49:22] [Server thread/INFO]: EarthlyEric6 lost connection: Disconnected
+[19:49:22] [Server thread/INFO]: EarthlyEric6 left the game
+[19:55:46] [Server thread/INFO]: [RSGS] Disabling ReloadServerGuardianService vV.0.1.-1.17.1.Alpha.Dev.Build.2021.10.1
+[19:55:46] [Server thread/WARN]: Legacy plugin ReloadServerGuardianService vV.0.1.-1.17.1.Alpha.Dev.Build.2021.10.1 does not specify an api-version.
+[19:55:46] [Server thread/INFO]: [RSGS] Enabling ReloadServerGuardianService vV.0.1.-1.17.1.Alpha.Dev.Build.2021.10.1*
+[19:55:46] [Server thread/INFO]: [RSGS] 
+ _______  _______  _______  _______ 
+(  ____ )(  ____ \(  ____ \(  ____ \
+| (    )|| (    \/| (    \/| (    \/
+| (____)|| (_____ | |      | (_____ 
+|     __)(_____  )| | ____ (_____  )
+| (\ (         ) || | \_  )      ) |
+| ) \ \__/\____) || (___) |/\____) |
+|/   \__/\_______)(_______)\_______)
+                                    
+[19:55:46] [Server thread/INFO]: [RSGS] Reload Server Guardian Service is Ready!
+[19:55:46] [Server thread/INFO]: [RSGS] Disabling ReloadServerGuardianService vV.0.1.-1.17.1.Alpha.Dev.Build.2021.10.1
+[19:55:46] [Server thread/INFO]: [RSGS] Enabling ReloadServerGuardianService vV.0.1.-1.17.1.Alpha.Dev.Build.2021.10.1*
+[19:55:46] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader ReloadServerGuardianService vV.0.1.-1.17.1.Alpha.Dev.Build.2021.10.1
+[19:55:46] [Server thread/INFO]: [RSGS] 
+ _______  _______  _______  _______ 
+(  ____ )(  ____ \(  ____ \(  ____ \
+| (    )|| (    \/| (    \/| (    \/
+| (____)|| (_____ | |      | (_____ 
+|     __)(_____  )| | ____ (_____  )
+| (\ (         ) || | \_  )      ) |
+| ) \ \__/\____) || (___) |/\____) |
+|/   \__/\_______)(_______)\_______)
+                                    
+[19:55:46] [Server thread/INFO]: [RSGS] Reload Server Guardian Service is Ready!
+[19:55:46] [Server thread/INFO]: [AutoPluginLoader] ReloadServerGuardianService has been automatically reloaded! (Took 13ms)

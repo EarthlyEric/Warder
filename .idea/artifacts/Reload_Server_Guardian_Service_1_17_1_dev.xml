@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Reload Server Guardian Service-1.17.1.dev">
+    <output-path>$PROJECT_DIR$/Dev-Server/plugins</output-path>
+    <root id="archive" name="Reload Server Guardian Service-1.17.1.dev.jar">
+      <element id="module-output" name="Reload Server Guardian Service" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
