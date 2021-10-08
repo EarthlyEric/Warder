@@ -1,6 +1,6 @@
-name: ReloadServerGuardianService
-prefix: RSGS
-main: dev.reload.RSGS.Init_RSGS
+name: Warder
+prefix: Warder
+main: dev.reload.Warder.Init_Warder
 version: V.0.1.-1.17.1.Alpha.Dev.Build.2021.10.1
 author: EarthlyEric6 @ Reload Dev Inc.
 load: STARTUP

@@ -1,10 +1,10 @@
-package dev.reload.RSGS;
+package dev.reload.Warder;
 
 import org.bukkit.plugin.java.JavaPlugin;
 import  org.bukkit.ChatColor;
-import  dev.reload.RSGS.Message.WelcomeEventListener;
+import  dev.reload.Warder.Message.WelcomeEventListener;
 
-public class Init_RSGS extends JavaPlugin {
+public class Init_Warder extends JavaPlugin {
     public void onEnable() {
         getServer().getPluginManager().registerEvents(new WelcomeEventListener(), this);
 

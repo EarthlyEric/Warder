@@ -1,4 +1,4 @@
-package dev.reload.RSGS.Message;
+package dev.reload.Warder.Message;
 
 import org.bukkit.ChatColor;
 import org.bukkit.event.EventHandler;
